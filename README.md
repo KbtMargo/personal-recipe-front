@@ -42,8 +42,7 @@ If you're ready to start organizing your recipes and make your cooking life easi
 How to Set Up Your Kitchen 🛠️
 Clone the Repository:
 Grab this repo and bring it to your local machine. 🖥️
-git clone https://github.com/your-username/personal-recipe-organizer.git
-
+git clone https://github.com/KbtMargo/personal-recipe-front
 Set Up Your Environment:
 Create a virtual environment to keep things clean. 💧
 python -m venv .venv
